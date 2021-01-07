@@ -3,7 +3,7 @@
 Request-Builder
 =================
 
-A tool that make it easy for you to build a new request for most programing language
+A tool that make it easy for you to build a new request for most programing languages
 
 <a href="https://github.com/alonemazin/Request-Builder/releases/download/v1.0/requestbuilder.Setup.1.0.0.exe">Download Now</a>
 ------
