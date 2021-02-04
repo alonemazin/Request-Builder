@@ -17,6 +17,14 @@ Programing Languages Supported
 4. Php (soon)
 5. Curl (soon)
 ```
+Libraries Supported
+------
+```
+1. HttpWebClient
+2. RestSharp
+3. Webclient (soon)
+4. XNet (soon)
+```
 
 Simple Preview
 ------
