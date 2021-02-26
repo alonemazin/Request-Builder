@@ -17,7 +17,7 @@ Programing Languages Supported
 1. Vb.net
 2. C#
 3. Python
-4. Php (soon)
+4. Php
 5. Curl (soon)
 ```
 Libraries Supported
