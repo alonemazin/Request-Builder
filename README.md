@@ -5,9 +5,10 @@ Request-Builder
 
 A tool that make it easy for you to build a new request for most programing languages
 
+<a href="http://requestbuilder.online/">Website - الموقع</a>
 <a>Download Now - للتحميل اضغط هنا</a>
-<a href="https://github.com/alonemazin/Request-Builder/releases/download/v1.1.4/requestbuilder.Setup.1.1.4.x32.exe">x32</a>
-<a href="https://github.com/alonemazin/Request-Builder/releases/download/v1.1.4/requestbuilder.Setup.1.1.4.x64.exe">x64</a>
+<a>x32</a>
+<a>x64</a>
 
 ------
 
@@ -18,7 +19,7 @@ Programing Languages Supported
 2. C#
 3. Python
 4. Php
-5. Curl (soon)
+5. Curl
 ```
 Libraries Supported
 ------
@@ -31,4 +32,4 @@ Libraries Supported
 
 Simple Preview
 ------
-<img src="https://github.com/alonemazin/Request-Builder/blob/main/preview.gif">
+NONE
