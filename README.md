@@ -6,10 +6,8 @@ Request-Builder
 A tool that make it easy for you to build a new request for most programing languages
 
 <a href="http://requestbuilder.online/">For online use - الموقع</a><br>
-<a>Download Now - للتحميل اضغط هنا</a>
-<a>x32</a>
-<a>x64</a>
-
+<a>التحميل غير متوفر حاليا</a>
+<a>The download is not currently available</a>
 ------
 
 Programing Languages Supported
