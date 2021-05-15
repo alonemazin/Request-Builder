@@ -5,8 +5,8 @@ Request-Builder
 
 A tool that make it easy for you to build a new request for most programing languages
 
-<a href="http://requestbuilder.online/">For online use - الموقع</a><br>
-<a>التحميل غير متوفر حاليا</a>
+<a href="http://requestbuilder.online/">For online use - الموقع</a><br><br>
+<a>التحميل غير متوفر حاليا</a><br>
 <a>The download is not currently available</a>
 ------
 
